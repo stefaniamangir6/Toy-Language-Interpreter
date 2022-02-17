@@ -1,5 +1,5 @@
 # Toy-Language-Interpreter
-Complex project using Model-View-Controller architectural pattern and Object-Oriented concepts. Graphical User Interface designed in JavaFX. Main interpreter features: variable declaration, assignment and conditional assignment of int, bool, string, reference types, arithmetic and comparison operations, printing, incrementing, file operations, if, switch, while, for, sleep, repeat-until, wait, concurrency using fork, cyclic-barrier synchronisation, heap management, type checker, garbage collector.
+Complex project using Model-View-Controller architectural pattern and Object-Oriented concepts. Graphical User Interface designed in JavaFX. Main interpreter features: variable declaration, assignment and conditional assignment of int, bool, string and reference types, arithmetic and comparison operations, printing, incrementing, file operations, if, switch, while, for, sleep, repeat-until, wait statements, concurrency using fork, cyclic-barrier synchronisation, heap management, type checker, garbage collector.
 
 
 <img width="713" alt="Screenshot 2022-02-17 at 17 42 04" src="https://user-images.githubusercontent.com/99746651/154516782-83d7f20d-ce4f-407f-8836-332098d9a480.png">
